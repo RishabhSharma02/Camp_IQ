@@ -1,4 +1,4 @@
-# demo_app
+# Campus_IQ APP
 
 A new Flutter project.
 
