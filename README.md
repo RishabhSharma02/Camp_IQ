@@ -1,6 +1,6 @@
 # Campus_IQ APP
 
-A new Flutter project.
+An educational app including LMS.
 
 ## Getting Started
 
